@@ -15,6 +15,7 @@ body {
 .score-background {
     display: flex;
     align-items: center;
+    justify-content: center;
     background-color: #080001;
     height: 120px;
     width: 155px;
@@ -29,7 +30,11 @@ body {
     width: 100%;
     color: #F94F6D;
     font-size: 90px;
+    height: 120px;
     font-family: 'Cursed Timer ULiL', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #guest-number {
@@ -37,6 +42,11 @@ body {
     width: 100%;
     color: #F94F6D;
     font-size: 90px;
+    height: 120px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 button {
